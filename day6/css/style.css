@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+.title{
+    bottom: 0px;
+    left: 20px;
+}
+.about div i,
+.skills i,
+.language i{
+    margin-right: 10px;
+}
+i{
+    align-content: center;
+}
+i,
+.sec1-date{
+    color: rgb(2, 145, 137);
+}
+.progress-bar,
+.sec1-date span,
+footer{
+    background-color: rgb(2, 145, 137);
+}
+.bar-skills p,
+.bar-language p{
+    margin-top: 18px;
+}
+.bar-language .progress{
+    height: 25px;
+}
+.link-social a i:hover{
+    opacity: 70%;
+}
